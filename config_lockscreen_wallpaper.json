@@ -1,4 +1,28 @@
 {
-  "wallpaper_1": 0,
-  "wallpaper_2": 1
+  "category_1": [
+    {
+      "wallpaper_name": 0,
+      "count": 3,
+      "listWallpaper": [
+        {
+          "walpaper_1": "1",
+          "walpaper_2": "2",
+          "walpaper_3": "3"
+        }
+      ]
+    }
+  ],
+  "category_2": [
+    {
+      "wallpaper_name": 0,
+      "count": 3,
+      "listWallpaper": [
+        {
+          "walpaper_1": "1",
+          "walpaper_2": "2",
+          "walpaper_3": "3"
+        }
+      ]
+    }
+  ]
 }
