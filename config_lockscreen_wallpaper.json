@@ -1,7 +1,7 @@
 {
   "category_1": [
     {
-      "wallpaper_name": 0,
+      "category_name": "Categoy 1",
       "count": 3,
       "listWallpaper": [
         {
@@ -14,7 +14,7 @@
   ],
   "category_2": [
     {
-      "wallpaper_name": 0,
+      "category_name":  "Categoy 2",
       "count": 3,
       "listWallpaper": [
         {
