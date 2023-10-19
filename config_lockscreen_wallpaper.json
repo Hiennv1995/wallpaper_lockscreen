@@ -5,14 +5,14 @@
         {
           "wallpaper_name": "Animal",
   	  "wallpaper_count": 50,
-          "walpaper_url": "Animal/animal_"
+          "wallpaper_path": "Animal/animal_"
         }
       ],
       "category_2": [
         {
           "wallpaper_name": "Test 2",
  	  "wallpaper_count": 10,
-       	  "walpaper_url": "Animal/animal_"
+       	  "wallpaper_path": "Animal/animal_"
         }
       ]
     }
