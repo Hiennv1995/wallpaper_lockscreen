@@ -1,6 +1,13 @@
 {
   "category": [
     {
+   "category_11": [
+        {
+          "wallpaper_name": "WorldCup",
+  	  "wallpaper_count": 30,
+          "wallpaper_path": "WorldCup/wc_"
+        }
+      ],
       "category_1": [
         {
           "wallpaper_name": "Animal",
